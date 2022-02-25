@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam belko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam belko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adam-belko-9b4ba71b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam belko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pesadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pesadam" height="30" width="40" /></a>
 <a href="https://instagram.com/br4ve.trv3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br4ve.trv3ll" height="30" width="40" /></a>
 <a href="https://discord.gg/belos ☂#9105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="belos ☂#9105" height="30" width="40" /></a>
