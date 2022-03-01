@@ -6,6 +6,8 @@
 - 💬 Ask me about **javascript or swift**
 
 - 📫 How to reach me **pesadam15@gmail.com**
+- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pesadam&theme=midnight-purple)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
