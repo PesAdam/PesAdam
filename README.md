@@ -9,12 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/pesadam=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/pesadam=anuraghazra&repo=convoychat" />
-</a>
 <a href="https://www.linkedin.com/in/adam-belko-9b4ba71b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam belko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15223063/pes-adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pesadam" height="30" width="40" /></a>
 <a href="https://instagram.com/br4ve.trv3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br4ve.trv3ll" height="30" width="40" /></a>
