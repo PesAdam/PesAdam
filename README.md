@@ -1,7 +1,7 @@
 <h1 align="center">Hello Im Belo</h1>
 <h3 align="center">Student.</h3>
 
-- 👨‍💻 All of my projects are available at [belo.sk](belo.sk)
+- 👨‍💻 All of my projects are available at [b3lo.me](b3lo.me)
 
 - 💬 Ask me about **javascript or swift**
 
